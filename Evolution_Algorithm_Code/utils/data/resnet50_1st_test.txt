@@ -1,0 +1,2 @@
+/data/runhua/resnet50_finetune/epoch.40_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_resize0.875/resnet50_28.pt
+/data/runhua/resnet50_finetune/epoch.40_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_None/resnet50_39.pt

@@ -1,0 +1,15 @@
+score:93.32321166992188, acc1:77.37, acc5:94.78, val_loss:0.8905, /home/runhua/1215/finetune/output/train/20231217-112411-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2_199.pt
+score:93.42311096191406, acc1:78.02, acc5:94.48, val_loss:0.8828, /home/runhua/1215/finetune/output/train/20231217-112411-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2_198.pt
+score:93.19412994384766, acc1:77.52, acc5:94.66, val_loss:0.8881, /home/runhua/1215/finetune/output/train/20231217-112411-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2_197.pt
+score:93.23728942871094, acc1:77.82, acc5:94.47, val_loss:0.8754, /home/runhua/1215/finetune/output/train/20231217-112411-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2_196.pt
+score:93.16896057128906, acc1:77.64, acc5:94.51, val_loss:0.8837, /home/runhua/1215/finetune/output/train/20231217-112411-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2_195.pt
+score:93.27685546875, acc1:77.74, acc5:94.52, val_loss:0.8947, /home/runhua/1215/finetune/output/train/20231217-112411-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_repro_0.25_aa_m9_n2_194.pt
+ensemble_top1: 78.84
+ensemble_top5: 95.11
+ensemble_eval_loss: 2.4145
+wa_top1: 77.61
+wa_top5: 94.62
+wa_eval_loss: 0.8815
+ensemble_top1_sm: 78.8
+ensemble_top5_sm: 95.15
+ensemble_eval_loss_sm: 0

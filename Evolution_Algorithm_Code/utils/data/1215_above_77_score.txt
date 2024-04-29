@@ -1,0 +1,14 @@
+score:93.94580841064453, acc1:77.04, acc5:94.72, val_loss:0.9298, /home/runhua/1215/finetune/output/train/20231216-152826-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m7-n3/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m7-n3_199.pt
+score:93.32321166992188, acc1:77.37, acc5:94.78, val_loss:0.8905, /home/runhua/1215/finetune/output/train/20231216-202655-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_trans2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_trans2_199.pt
+score:95.9754638671875, acc1:77.01, acc5:94.4, val_loss:0.9554, /home/runhua/1215/finetune/output/train/20231216-203554-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_m5_n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_m5_n2_198.pt
+score:93.32321166992188, acc1:77.37, acc5:94.78, val_loss:0.8905, /home/runhua/1215/finetune/output/train/20231217-000342-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_m10_n7_repro_0.25_trans2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_m10_n7_repro_0.25_trans2_199.pt
+score:93.4115219116211, acc1:77.29, acc5:94.69, val_loss:0.8191, /home/runhua/1215/finetune/output/train/20231217-000415-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1_epoch_200_aa_m10_n7_repro_0.25_trans2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1_epoch_200_aa_m10_n7_repro_0.25_trans2_198.pt
+ensemble_top1: 81.61
+ensemble_top5: 96.43
+ensemble_eval_loss: 2.3583
+wa_top1: 3.68
+wa_top5: 15.11
+wa_eval_loss: 4.4496
+ensemble_top1_sm: 81.11
+ensemble_top5_sm: 96.27
+ensemble_eval_loss_sm: 0

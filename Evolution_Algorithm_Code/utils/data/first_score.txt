@@ -1,0 +1,11 @@
+score:80.732421875, acc1:73.25521087646484, acc5:90.75521240234374, val_loss:1.473, /data/guodong/spe/output/train/20230824-114039-epoch.20_lr.0.01_sgd_bs512_sm0.1/resnet50_19.pt
+score:80.8203125, acc1:73.43750457763672, acc5:90.72917175292969, val_loss:1.4738, /data/guodong/spe/output/train/20230824-114039-epoch.20_lr.0.01_sgd_bs512_sm0.1/resnet50_18.pt
+ensemble_top1: 73.33333587646484
+ensemble_top5: 90.72917098999024
+ensemble_eval_loss: 3.9312
+wa_top1: 73.41146087646484
+wa_top5: 90.70312957763672
+wa_eval_loss: 1.4734
+ensemble_top1_sm: 73.33333587646484
+ensemble_top5_sm: 90.72917098999024
+ensemble_eval_loss_sm: 0

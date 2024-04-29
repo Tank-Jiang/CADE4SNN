@@ -1,0 +1,16 @@
+score:93.38035583496094, acc1:77.76, acc5:94.8, val_loss:0.8842, /home/runhua/1129/sew_pretrain/output/train/20231101-201726-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_trans2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_trans2_199.pt
+score:93.1597671508789, acc1:77.46, acc5:94.9, val_loss:0.9129, /home/runhua/1129/sew_pretrain/output/train/20231101-210334-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m9-n2_repro_0.25/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m9-n2_repro_0.25_199.pt
+score:94.00415802001953, acc1:77.54, acc5:94.61, val_loss:0.9267, /home/runhua/1129/sew_pretrain/output/train/20231101-210502-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m9-n2/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m9-n2_199.pt
+score:91.70635986328125, acc1:76.56, acc5:94.5, val_loss:0.8209, /home/runhua/1129/sew_pretrain/output/train/20231102-004706-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m11-n3/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m11-n3_199.pt
+score:89.49608612060547, acc1:76.14, acc5:94.28, val_loss:0.9341, /home/runhua/1129/sew_pretrain/output/train/20231102-004833-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0_T4_1_1_1_1_epoch_200_aa_rand-m11-n3/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0_T4_1_1_1_1_epoch_200_aa_rand-m11-n3_199.pt
+score:87.70260620117188, acc1:75.9, acc5:94.26, val_loss:0.9367, /home/runhua/1129/sew_pretrain/output/train/20231102-005219-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0_T4_1_1_1_1_epoch_200_aa_rand-m11-n3_re_prob_0.25/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0.1_mixup_0_T4_1_1_1_1_epoch_200_aa_rand-m11-n3_re_prob_0.25_199.pt
+score:90.49552154541016, acc1:76.77, acc5:94.82, val_loss:0.8163, /home/runhua/1129/sew_pretrain/output/train/20231102-005308-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m11-n3_re_prob_0.25/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1_epoch_200_aa_rand-m11-n3_re_prob_0.25_199.pt
+ensemble_top1: 81.59
+ensemble_top5: 96.68
+ensemble_eval_loss: 2.3453
+wa_top1: 2.81
+wa_top5: 10.78
+wa_eval_loss: 4.5269
+ensemble_top1_sm: 81.37
+ensemble_top5_sm: 96.57
+ensemble_eval_loss_sm: 0

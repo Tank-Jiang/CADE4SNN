@@ -1,0 +1,15 @@
+score:88.4765625, acc1:76.979, acc5:93.932, val_loss:0.8932, /data/runhua/resnet50_finetune/epoch.40_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_None/resnet50_39.pt
+score:87.919921875, acc1:76.771, acc5:93.542, val_loss:1.0234, /data/runhua/resnet50_finetune/epoch.40_lr.1e-4_sgd_bs128_sm0.1_weight_decay_2e-5_mixup_0.0_aa_None/resnet50_39.pt
+score:87.568359375, acc1:76.927, acc5:93.438, val_loss:0.9096, /data/runhua/resnet50_finetune/epoch.30_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.1_aa_rand-m8-n1/resnet50_29.pt
+score:86.591796875, acc1:76.797, acc5:93.464, val_loss:1.0314, /data/runhua/resnet50_finetune/epoch.30_lr.1e-4_sgd_bs128_sm0.1_weight_decay_2e-5_mixup_0.0_aa_rand-m2-n2/resnet50_21.pt
+score:87.48046875, acc1:77.005, acc5:93.542, val_loss:0.9044, /data/runhua/resnet50_finetune/epoch.20_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_rand-m12-n2/resnet50_17.pt
+score:87.646484375, acc1:76.953, acc5:93.594, val_loss:0.9037, /data/runhua/resnet50_finetune/epoch.20_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_rand-m9-n2/resnet50_19.pt
+ensemble_top1: 77.23958536783854
+ensemble_top5: 93.85416971842447
+ensemble_eval_loss: 3.5711
+wa_top1: 77.1875015258789
+wa_top5: 93.75000610351563
+wa_eval_loss: 0.8926
+ensemble_top1_sm: 77.22222442626953
+ensemble_top5_sm: 93.8411496480306
+ensemble_eval_loss_sm: 0

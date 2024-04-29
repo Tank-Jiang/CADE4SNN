@@ -1,0 +1,14 @@
+score:86.23303985595703, acc1:76.796, acc5:93.088, val_loss:0.9447, /home/guodong/runhua/popsize8_with_aa/sgd_with_aa/epoch.30_lr.1e-3_sgd_bs128_sm0_weight_decay_5e-5_mixup_0.2_aa_m13-n1_resnet50_29.pt
+score:87.57254791259766, acc1:76.422, acc5:92.998, val_loss:0.9413, /home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.30_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.1_aa_rand-m8-n1/resnet50_29.pt
+score:86.71566772460938, acc1:76.058, acc5:92.864, val_loss:1.0483, /home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.30_lr.1e-4_sgd_bs128_sm0.1_weight_decay_2e-5_mixup_0.0_aa_rand-m2-n2/resnet50_21.pt
+score:87.50375366210938, acc1:76.356, acc5:92.96, val_loss:0.9442, /home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.20_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_rand-m12-n2/resnet50_17.pt
+score:87.62559509277344, acc1:76.302, acc5:92.962, val_loss:0.9452, /home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.20_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_rand-m9-n2/resnet50_19.pt
+ensemble_top1: 76.78840309375
+ensemble_top5: 93.178804171875
+ensemble_eval_loss: 3.5908
+wa_top1: 76.584003125
+wa_top5: 93.1160043359375
+wa_eval_loss: 0.923
+ensemble_top1_sm: 76.794402875
+ensemble_top5_sm: 93.184804453125
+ensemble_eval_loss_sm: 0

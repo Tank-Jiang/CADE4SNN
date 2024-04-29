@@ -1,0 +1,12 @@
+score:94.94605255126953, acc1:75.51, acc5:93.71, val_loss:0.9109, /home/guodong/runhua/cifar_finetune/spe_snn_finetune_cifar/output/train/20231031-132406-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_smoothing_0_mixup_0.1_T4_1_1_1_1_49.pt
+score:95.23617553710938, acc1:75.84, acc5:93.48, val_loss:0.9783, /home/guodong/runhua/cifar_finetune/spe_snn_finetune_cifar/output/train/20231031-132821-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_smoothing_0.1_mixup_0.1_T4_1_1_1_1_49.pt
+score:93.61053466796875, acc1:74.38, acc5:92.84, val_loss:1.0122, /home/guodong/runhua/cifar_finetune/spe_snn_finetune_cifar/output/train/20231031-132057-sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_smoothing_0.1_T4_1_1_1_1/sew34(from_cifar10_train)_cifar100_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_smoothing_0.1_T4_1_1_1_1_49.pt
+ensemble_top1: 78.85
+ensemble_top5: 95.1
+ensemble_eval_loss: 2.4034
+wa_top1: 28.52
+wa_top5: 64.42
+wa_eval_loss: 2.8773
+ensemble_top1_sm: 78.95
+ensemble_top5_sm: 95.05
+ensemble_eval_loss_sm: 0

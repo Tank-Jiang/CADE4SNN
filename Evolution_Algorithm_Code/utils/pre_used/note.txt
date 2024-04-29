@@ -1,0 +1,68 @@
+# momentum_lst = [0.9 for _ in range(10)]
+# weight_decay_lst = [1e-2, 5e-3, 1e-3, 6e-4, 3e-4, 1e-4, 6e-5, 3e-5, 1e-5, 1e-6]
+"""
+inputs, targets_a, targets_b, lam = mixup_data(inputs, labels, beta=args.beta, device=args.gpu)
+
+logits = model(inputs)
+
+loss = mixup_criterion(self.loss_fn, logits, targets_a, targets_b, lam)
+
+
+Each run was 8 GPUs. We used warmup length 500 and batch size 512. For epochs we chose that randomly 
+from the range (4, 6).
+
+Here is the code which goes along with our description in the paper:
+
+
+if np.random.rand() < 0.333:
+        aug = None
+    else:
+        m_aug = random.randint(0, 20)
+        n_aug = random.randint(0, 2)
+        aug = f'rand-m{m_aug}-n{n_aug}'
+
+    wd = 10 ** (- (0.2 + np.random.rand()*4) )
+    lr = 10 ** (- (4 + np.random.rand()*2) )
+
+    if np.random.rand() < 0.5:
+        mix = 0
+    else:
+        mix = np.random.rand()*0.9
+
+    if np.random.rand() < 0.5:
+        smoothing = 0
+    else:
+        smoothing = np.random.rand()*0.25
+
+    epochs = random.randint(4, 16)
+
+    info['aug'] = aug
+    info['wd'] = wd
+    info['lr'] = lr
+    info['mix'] = mix
+    info['smoothing'] = smoothing
+    info['epochs'] = epochs
+
+1, lr: 1e-3, 1e-4, 1e-3~1e-5, 1e-4~1e-5, [1e-2~1e-5];
+
+2, wd: 2e-5, 1e-4, 3e-4, 5e-5, [1e-3, 1e-6, 1e-2];
+
+3, aa: rand-m14-n2, m7-n1, m9-n2, m12-n2, m2-n2, m8-n1;
+
+4, sm: 0, 0.1;
+
+5, mix: 0, 0.1, 0.2, 0.25;
+
+6, epochs 10, 15, 20, [30];
+
+
+
+Actually, we would like to add our proposed technique in the fine-tune stage to further improve the ModelSoup. ModelSoup is an excellent work and we cite the paper to help our research.
+
+The minimal fine-tuning example already has learning rate, weight decay, epochs. The things we need to add are label smooth, mixup and augmentation, is it right?
+
+It will bring us great convenience if you can provide the fine-tuning script run in CLIP ViT-B/32 experiment. And also If the fine-tuning script is unreachable, we may bother you again to check if our reimplement is consist with paper's.
+
+The reimplement code is work in progress. We think we will post them is a few days later.
+
+"""

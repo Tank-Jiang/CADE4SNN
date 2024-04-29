@@ -1,0 +1,5 @@
+/home/guodong/runhua/popsize8_with_aa/sgd_with_aa/epoch.30_lr.1e-3_sgd_bs128_sm0_weight_decay_5e-5_mixup_0.2_aa_m13-n1_resnet50_29.pt
+/home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.30_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.1_aa_rand-m8-n1/resnet50_29.pt
+/home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.30_lr.1e-4_sgd_bs128_sm0.1_weight_decay_2e-5_mixup_0.0_aa_rand-m2-n2/resnet50_21.pt
+/home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.20_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_rand-m12-n2/resnet50_17.pt
+/home/guodong/runhua/popsize8_with_aa/good_result/resnet50_finetune/epoch.20_lr.1e-4_sgd_bs128_sm0_weight_decay_2e-5_mixup_0.0_aa_rand-m9-n2/resnet50_19.pt

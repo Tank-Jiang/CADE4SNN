@@ -1,0 +1,14 @@
+score:80.7041244506836, acc1:72.01, acc5:92.81, val_loss:0.9833, /home/runhua/1215/finetune/output/train/20231218-095145-sew34_cifar100_dataset_0_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4/sew34_cifar100_dataset_0_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4_299.pt
+score:96.34510803222656, acc1:74.41, acc5:93.04, val_loss:1.0305, /home/runhua/sew_pretrain/output/train/20231017-195415-sew34_cifar100_dataset_1_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4/sew34_cifar100_dataset_1_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4_299.pt
+score:96.45380401611328, acc1:74.57, acc5:92.84, val_loss:1.038, /home/runhua/sew_pretrain/output/train/20231018-001003-sew34_cifar100_dataset_2_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4/sew34_cifar100_dataset_2_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4_299.pt
+score:96.47378540039062, acc1:74.16, acc5:92.73, val_loss:1.0497, /home/runhua/sew_pretrain/output/train/20231018-001104-sew34_cifar100_dataset_3_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4/sew34_cifar100_dataset_3_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4_299.pt
+score:96.47378540039062, acc1:74.16, acc5:92.73, val_loss:1.0497, /home/runhua/sew_pretrain/output/train/20231018-001204-sew34_cifar100_dataset_4_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4/sew34_cifar100_dataset_4_sgd_lr_1e-1_sm_0_wd5e-4_300epoch_T4_299.pt
+ensemble_top1: 77.67
+ensemble_top5: 95.02
+ensemble_eval_loss: 2.3536
+wa_top1: 1.06
+wa_top5: 5.0
+wa_eval_loss: 4.8282
+ensemble_top1_sm: 77.67
+ensemble_top5_sm: 94.97
+ensemble_eval_loss_sm: 0
